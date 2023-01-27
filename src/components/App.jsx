@@ -5,6 +5,7 @@ import { SectionTitle } from './SectionTitle/SectionTitle';
 import { Title } from './Title/Title';
 import { Notification } from './Notification/Notification';
 
+
 export class App extends Component {
   state = {
     good: 0,
